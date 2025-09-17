@@ -4,6 +4,8 @@
 
 # **Zephyr, the Wild Little Fox — Backstory Summary**
 
+[[Journal\|Journal]]
+
 **Childhood on the Wind Plains**  
 Zephyr was born into the nomadic halfling Herd known as _i’Turog_, who roamed the Wind Plains in the Silver Reach. The Herd revered all the elements, but her family line had a special bond with the fox spirit of the wind, Vashkara. Zephyr’s grandmother, the Dreamwalker, was the tribe’s spiritual leader, and everyone expected Zephyr to follow in her path one day.
 
