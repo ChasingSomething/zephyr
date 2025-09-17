@@ -7,7 +7,7 @@
 - Dagger
 - Spear
 - [[Skeleton's Axe\|Skeleton's Axe]]
-- [[War Scythe of the Sordid Eye\|War Scythe of the Sordid Eye]]
+- [[Inventory/War Scythe of the Sordid Eye\|War Scythe of the Sordid Eye]]
 - Sling
 - Quarterstaff
 - [[Shillelagh\|Shillelagh]]
@@ -15,18 +15,16 @@
 
 # Magical Items
 [[Inventory/Figurine of Wondrous Power (Onyx Wolf)\|Figurine of Wondrous Power (Onyx Wolf)]]
-[[Bag of Holding\|Bag of Holding]]
+[[Inventory/Bag of Holding\|Bag of Holding]]
 
 
 # Adventuring Gear
 - Ragged Clothes
 - Staff
-- [[Bear Trap\|Bear Trap]]
+- [[Inventory/Bear Trap\|Bear Trap]]
 - Animal trophies
 	- Antlers
 	- teeth
-
-
 
 
 ## backpack
@@ -44,7 +42,7 @@
 - Pocket sand
 
 ## Belt
-- Oil of Etherealness
+- [[Inventory/Oil of Etherealness\|Oil of Etherealness]]
 - Ption of Spider climb
 - Mystery Potion
 - Health Potion d4 - 6
