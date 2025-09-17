@@ -51,6 +51,6 @@ What would [[People/Grandmother\|Grandmother]] say? "*Fast wind leaves scorched 
 
 ***sigh*** - perhaps my wind does blow too fast. But I have [[People/Vashkara\|Vashkara]] now, I must sit with the wind and listen for its secrets. 
 
-But first - **“[[__Zephyr VindJaeger/Culture/Language/Language#🪓 **Phrase to Begin the Kharuun**\|Vakha ne’khari, turog ne’kharuun]]”**  (Its breath joins the wind, its body joins the herd)
+But first - **“[[__Zephyr VindJaeger/Culture/Language/Language#🪓 **Phrase to Begin the Kharuun**\|Vakha ne’khari, turog ne’kharuun]]”**  *(Its breath joins the wind, its body joins the herd)*
 
 ---
