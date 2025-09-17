@@ -3,7 +3,7 @@
 ---
 
 
-[[__Zephyr VindJaeger/Journal/Journal\|Journal]] :: [[Day 2\|Day 2]]
+[[__Zephyr VindJaeger/Journal/Journal\|Journal]] :: [[__Zephyr VindJaeger/Journal/Day 2\|Day 2]]
 
 Woke up in a cell with a larger Human. Strong. Has a hammer. Seems a little green though. His name is [[People/Rango\|Rango]]. We escaped from the cell and found others in cells nearby; a witch named [[People/Morgan\|Morgan]] and a tiefling. The witch seemed with it, but the tiefling seems a bit touched in the head. 
 
