@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/zephyr-vind-jaeger/journal/journal/","title":"Zephyr VindJaeger"}
 ---
 
- [[__Zephyr VindJaeger/Journal/Journal\|Journal]] || [[__Zephyr VindJaeger/Statblock\|Statblock]]
+[[__Zephyr VindJaeger/Statblock\|Statblock]] ::  [[__Zephyr VindJaeger/Journal/Day 1\|Day 1]]
 
 # **Zephyr, the Wild Little Fox — Backstory Summary**
 
