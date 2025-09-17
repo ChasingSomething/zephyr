@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/journal/","title":"Zephyr VindJaeger","tags":["gardenEntry"]}
 ---
 
 ##### Day 1 
