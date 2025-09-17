@@ -4,7 +4,7 @@
 
 # **Zephyr, the Wild Little Fox — Backstory Summary**
 
-[[Zephyr-Warpaint.png]]
+![Zephyr](/img/user/zzAssets/Zephyr-Warpaint.png)
 
 [[__Zephyr VindJaeger/Journal/Journal\|Journal]]
 
