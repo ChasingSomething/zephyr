@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zephyr-vind-jaeger/journal/journal/","title":"Zephyr VindJaeger"}
+{"dg-publish":true,"permalink":"/zephyr-vind-jaeger/journal/journal/","title":"Journal"}
 ---
 
 [[__Zephyr VindJaeger/Backstory\|Backstory]] 
