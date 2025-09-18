@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/shillelagh/"}
 ---
 
-
 _cantrip, Transmutation_
 
 - **Casting time:** 1 Bonus Action
@@ -16,3 +15,5 @@ The spell ends early if you cast it again or if you let go of the weapon.
 
 **Cantrip Upgrade.** The damage die changes when you reach levels 5 (1d10), 11 (1d12), and 17 (2d6).
 
+
+[[Inventory/Inventory\|Inventory]]
