@@ -23,7 +23,8 @@ Warforged Artificer
 Meg Stiffelson
 [[Derek Smith\|Derek Smith]] - Skeleton in the cart
 
-## [[__Zephyr VindJaeger/Journal/Backstory\|Backstory]]
+# [[__Zephyr VindJaeger/Journal/Backstory\|Backstory]]
+## The Herd of the Wind- i'Turog
 ### **Ishvara Galeheart**
 - Zephyr’s grandmother, the Herd’s spiritual leader.
 - Keeper of the fox figurine, teacher of the elemental ways.
