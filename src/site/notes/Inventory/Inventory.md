@@ -16,7 +16,7 @@
 # Magical Items
 [[Inventory/Figurine of Wondrous Power (Onyx Wolf)\|Figurine of Wondrous Power (Onyx Wolf)]]
 [[Inventory/Bag of Holding\|Bag of Holding]]
-
+[[book of iMessage\|book of iMessage]]
 
 # Adventuring Gear
 - Ragged Clothes
