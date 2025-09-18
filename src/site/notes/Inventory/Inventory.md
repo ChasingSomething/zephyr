@@ -6,7 +6,7 @@
 # Weapons
 - Dagger
 - Spear
-- [[Skeleton's Axe\|Skeleton's Axe]]
+- [[Great Axe of Tolling Death\|Great Axe of Tolling Death]]
 - [[Inventory/War Scythe of the Sordid Eye\|War Scythe of the Sordid Eye]]
 - Sling
 - Quarterstaff
