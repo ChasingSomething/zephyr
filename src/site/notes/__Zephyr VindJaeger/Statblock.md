@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/zephyr-vind-jaeger/statblock/"}
 ---
 
+![Zephyr VindJaeger-lvl5-statblock.png](/img/user/zzAssets/Zephyr%20VindJaeger-lvl5-statblock.png)
+
 ```statblock
 name: Zephyr VindJaeger
 size: small
