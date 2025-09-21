@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/zephyr-vind-jaeger/statblock/"}
 ---
 
+# png
 ![Zephyr VindJaeger-lvl5-statblock.png](/img/user/zzAssets/Zephyr%20VindJaeger-lvl5-statblock.png)
+
+# Statblock
 
 ```statblock
 name: [[Backstory|Zephyr VindJaeger]]

@@ -25,4 +25,5 @@ Warforged Artificer
 Meg Stiffelson
 [[Derek Smith\|Derek Smith]] - Skeleton in the cart
 
+
 # [[__Zephyr VindJaeger/Journal/Backstory\|Backstory]]

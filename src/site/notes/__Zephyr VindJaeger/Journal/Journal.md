@@ -4,5 +4,6 @@
 
 [[__Zephyr VindJaeger/Journal/Backstory\|Backstory]] 
 
-[[__Zephyr VindJaeger/Journal/Day 1\|Day 1]]
+[[__Zephyr VindJaeger/Journal/The Prison Escape\|The Prison Escape]]
 [[__Zephyr VindJaeger/Journal/Day 2\|Day 2]]
+[[__Zephyr VindJaeger/Journal/Encountering the Gnolls\|Encountering the Gnolls]]
